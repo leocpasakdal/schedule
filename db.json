@@ -1,0 +1,25 @@
+{
+  "20190501": 
+  {
+    "driverId1": {
+      "leaves": [{ "leaveId": 1 }],
+      "availabilities": [{ "availabilityId": 1 }],
+      "fixedShifts": [{ "fixedShiftId": 1 }],
+      "shifts": [{ "shiftId": 1 }]
+    },
+
+    "driverId2": {
+      "leaves": [{ "leaveId": 2 }],
+      "availabilities": [{ "availabilityId": 2 }],
+      "fixedShifts": [{ "fixedShiftId": 2 }],
+      "shifts": [{ "shiftId": 2 }]
+    },
+
+    "driverId3": {
+      "leaves": [{ "leaveId": 3 }],
+      "availabilities": [{ "availabilityId": 3 }],
+      "fixedShifts": [{ "fixedShiftId": 3 }],
+      "shifts": [{ "shiftId": 3 }]
+    }
+  }
+}
